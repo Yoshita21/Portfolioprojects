@@ -1,0 +1,19 @@
+Commands used:
+
+Removing duplicates:
+Go to the data tab, select remove duplicates under data tools
+
+Making the sentence case consistent:
+=PROPER(C2)
+
+Cleaning the groups In party column:
+Republican and Republicans are same so name them as a single entity
+
+Removing extra spaces in the vice column:
+=TRIM(G2) (double click on the dark green square to apply to whole column)
+
+Chnaging datatype of salary:
+Go to home tab and change the Salary to number 
+
+Discrepancies in date format:
+Select the columns, change to short date
