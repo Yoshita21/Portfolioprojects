@@ -1,2 +1,3 @@
-<h1>HI</h1>
+<h1>Tableau Dashboard</h1>
 <p>this is to test</p>
+<a href ="https://public.tableau.com/views/AirBnBproject_16874539629670/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">click here to view dashboard </a>
